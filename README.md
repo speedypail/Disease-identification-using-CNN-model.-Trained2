@@ -1,0 +1,1 @@
+# Disease-identification-using-CNN-model.-Trained2
